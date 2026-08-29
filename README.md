@@ -24,7 +24,7 @@ During my graduate studies, my research has centered around neuro-symbolic learn
 **🧠 Logical Reasoning & Neuro-Symbolic Benchmarks**
 Designing multi-path logical reasoning benchmarks and utilizing neuro-symbolic generation techniques to verify the deductive reasoning boundaries of models.
 
-* **[Under review]** *LogicGraph: Benchmarking Multi-Path Logical Reasoning via Neuro-Symbolic Generation and Verification* (1st Author)
+* **[EMNLP 2026]** *LogicGraph: Benchmarking Multi-Path Logical Reasoning via Neuro-Symbolic Generation and Verification* (1st Author)
 
 **📊 Diagram Understanding & Visual Reasoning**
 Constructing comprehensive benchmarks to evaluate physics-based reasoning, and proposing memory-enriched/predictive coding frameworks to overcome cognitive limitations in visual tasks.
